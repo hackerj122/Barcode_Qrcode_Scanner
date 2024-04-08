@@ -24,20 +24,24 @@ Open Android Studio and select "Open an existing Android Studio project". Naviga
 
 Connect your Android device to your computer, then build and run the app on your device.
 
-Dependencies
-[ZXing Core](https://github.com/zxing/zxing): Library for barcode scanning.<br>
-[ZXing Android Embedded](https://github.com/journeyapps/zxing-android-embedded): Android library for embedding ZXing barcode scanning functionality into Android applications.<br>
-Usage
+## Dependencies
+
+- [ZXing Core](https://github.com/zxing/zxing): Library for barcode scanning.
+- [ZXing Android Embedded](https://github.com/journeyapps/zxing-android-embedded): Android library for embedding ZXing barcode scanning functionality into Android applications.
+
+## Usage
+
 1. Launch the app on your Android device.
 2. Tap the "Scan" button to start scanning.
 3. Point your device's camera at a barcode or QR code.
-4. Once the code is detected, the result will be displayed on the screen.<br>
-License
+4. Once the code is detected, the result will be displayed on the screen.
+
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-[ZXing Team](https://github.com/zxing)
-[JourneyApps](https://github.com/journeyapps)
+## Acknowledgments
 
-Feel free to customize it with more information about your project, such as detailed setup instructions, additional features, acknowledgments, etc. Make sure to replace placeholder URLs and project names with your actual repository details.
+- [ZXing Team](https://github.com/zxing)
+- [JourneyApps](https://github.com/journeyapps)
 
