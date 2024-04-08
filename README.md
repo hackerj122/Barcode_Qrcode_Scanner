@@ -1,4 +1,4 @@
-# Barcode Scanner App
+# Barcode Qrcode Scanner App
 
 This is a simple Android application that allows users to scan barcodes and QR codes using the device's camera.
 
